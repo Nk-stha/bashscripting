@@ -1,0 +1,19 @@
+# Generated output files
+aws-ec2-details-*.md
+aws-ec2-info-*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+.*.tmp
